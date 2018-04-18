@@ -365,6 +365,7 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="HtmlPage1.html" />
     <Content Include="Images\08c0aa6d-a117-4260-b0ce-bbb1fdf50452_test ticket status_map_icon.png" />
     <Content Include="Images\1bf8df0b-0120-4a02-bda7-4ac9088002b6_first test new test_tourlist_bg.png" />
     <Content Include="Images\57cf41a6-cc8b-4408-bc51-3536563bcf67_test_r_pin.png" />
